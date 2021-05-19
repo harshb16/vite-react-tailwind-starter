@@ -60,7 +60,7 @@ Copy the needed files from [vite react-ts](https://github.com/vitejs/create-vite
 
 ## Demo
 
-[live site](https://google.com)
+[live site](https://vite-react-tailwind-starter-template.vercel.app)
 
 ### License
 
