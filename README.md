@@ -43,7 +43,7 @@ $ npm run dev
 ### Build
 
 ```sh
-yarn build
+$ yarn build
 ```
 
 OR
